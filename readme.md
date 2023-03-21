@@ -57,17 +57,18 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is my first Microverse Project. It contains every first step I have to take as a developer.
 
-**[Hello World Project with Linters Configurations]** is a...
+**[Hello Microverse Project]** is a website that is used to test for different linter errors that could occur when building a HTML and CSS project.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="HTML and CSS"></a>
 
-### Tech Stack <a name="tech-stack">Front End</a>
+### Tech Stack <a name="Front end"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> This is a desk-top browser website.
+
 
 <details>
   <summary>Client</summary>
@@ -83,8 +84,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -92,8 +91,6 @@ After you're finished please remove all the comments and instructions!
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -142,8 +139,6 @@ Install this project with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Contact form]**
 - [ ] **[Mobile version of the website]**
 
@@ -159,8 +154,6 @@ Feel free to check the [issues page](https://github.com/katfogy/hello_world/issu
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project or would love to tell me ways to improve it, contact me on LinkedIn or Twitter
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -169,7 +162,6 @@ If you like this project or would love to tell me ways to improve it, contact me
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse community for this opportunity to learn new things.
 
@@ -181,30 +173,10 @@ I would like to thank Microverse community for this opportunity to learn new thi
 
 <!-- LICENSE -->
 
+
+
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-MIT License
-
-Copyright (c) 2023 Foga Kater Amos
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
