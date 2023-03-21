@@ -57,17 +57,18 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is my first Microverse Project. It contains every first step I have to take as a developer.
 
-**[Hello World Project with Linters Configurations]** is a...
+**[Hello Microverse Project]** is a website that is used to test for different linter errors that could occur when building a HTML and CSS project.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="HTML and CSS"></a>
 
-### Tech Stack <a name="tech-stack">Front End</a>
+### Tech Stack <a name="Front end"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> This is a desk-top browser website.
+
 
 <details>
   <summary>Client</summary>
