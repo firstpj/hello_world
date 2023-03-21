@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.intro{
+    max-width: 350px;
+    margin: 20px auto;
+}
