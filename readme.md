@@ -143,8 +143,6 @@ Install this project with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Contact form]**
 - [ ] **[Mobile version of the website]**
 
@@ -160,8 +158,6 @@ Feel free to check the [issues page](https://github.com/katfogy/hello_world/issu
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project or would love to tell me ways to improve it, contact me on LinkedIn or Twitter
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -170,7 +166,6 @@ If you like this project or would love to tell me ways to improve it, contact me
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse community for this opportunity to learn new things.
 
